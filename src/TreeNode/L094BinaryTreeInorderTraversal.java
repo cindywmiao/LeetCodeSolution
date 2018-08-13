@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
-public class BinaryTreeInorderTraversal {
+public class L094BinaryTreeInorderTraversal {
 	public List<Integer> inorderTraversal(TreeNode root){
 		List<Integer> res = new LinkedList<>();
 		if(root == null) return res;

@@ -1,6 +1,6 @@
 package TreeNode;
 
-public class ConstructBinaryTreeFromPreorderAndInorder {
+public class L105ConstructBinaryTreeFromPreorderAndInorder {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,13 +1,6 @@
 package TreeNode;
 
-public class UniqueBInarySearchTree2 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//System.out.println(numTrees2(6));
-		System.out.println(numTrees(6));
-		System.out.println(numTrees3(6));
-	}	
+public class L095UniqueBInarySearchTree2 {
 	
 	public static int numTrees(int n){
 		if(n == 0) return 1;

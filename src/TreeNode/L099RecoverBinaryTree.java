@@ -1,6 +1,6 @@
 package TreeNode;
 
-public class RecoverBinaryTree {
+public class L099RecoverBinaryTree {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

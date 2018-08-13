@@ -2,7 +2,7 @@ package TreeNode;
 
 import java.util.*;
 
-public class UniqueBinarySearchTree {
+public class L096UniqueBinarySearchTree {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
